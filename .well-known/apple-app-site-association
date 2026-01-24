@@ -2,7 +2,9 @@
     "webcredentials": {
       "apps": [
         "5NZU64MX8F.com.demo.applepay.walletextensiondemo02",
-        "5NZU64MX8F.com.demo.applepay.walletextensiondemo02.WalletUIExtension"
+        "5NZU64MX8F.com.demo.applepay.walletextensiondemo02.WalletUIExtension",
+        "5NZU64MX8F.com.demo.applepay.walletextensiondemo01",
+        "5NZU64MX8F.com.demo.applepay.walletextensiondemo01.WalletUIExtension"
       ]
     }
   }
